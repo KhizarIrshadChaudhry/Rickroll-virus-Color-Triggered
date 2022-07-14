@@ -9,7 +9,7 @@ def main():
     for i in range(50):
         keyboard.press(Key.media_volume_up)
         keyboard.release(Key.media_volume_up)
-    playsound("alol.wav")
+    playsound("rickAstley.wav")
 
 
 while True:
